@@ -1,6 +1,6 @@
 <h1>Fruta & Fruto Project</h1>
 
-<h2>Project deployed on: </h2>
+<h2>Project deployed on: https://frutaefruto-alura.netlify.app/</h2>
 
 <h3>Alura</h3>
 
