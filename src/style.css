@@ -6,6 +6,10 @@
     font-family: 'Pacifico', cursive;
 }
 
+.texto-cor-especial {
+    color: darkred!important;
+}
+
 .imagem-carrosel-um {
     object-fit: cover;
     object-position: 0 80%;
